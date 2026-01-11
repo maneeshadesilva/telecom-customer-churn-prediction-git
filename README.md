@@ -5,6 +5,7 @@ This project demonstrates a **machine learning approach to predicting customer c
 ---
 
 ## Project Structure
+
 telecom-customer-churn-prediction-git/
 ├── notebooks/ # Jupyter notebooks for exploration and modeling
 │ └── Telecom Customer Churn Prediction My Version.ipynb
@@ -31,9 +32,8 @@ To run the notebooks:
 
 1. Clone the repository:
 
-```bash
 git clone https://github.com/maneeshadesilva/telecom-customer-churn-prediction-git.git
-cd telecom-customer-churn-prediction-git
+cd telecom-customer-churn-prediction-git 
 
 
 2. Install dependencies:
