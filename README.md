@@ -6,11 +6,11 @@ This project demonstrates a **machine learning approach to predicting customer c
 
 ## Project Structure
 
-telecom-customer-churn-prediction-git/
-├── notebooks/ # Jupyter notebooks for exploration and modeling
-│ └── Telecom Customer Churn Prediction My Version.ipynb
-└── README.md # This file
-To run the notebooks:
+telecom-customer-churn-prediction-git/  
+├── notebooks/ # Jupyter notebooks for exploration and modeling  
+│ └── Telecom Customer Churn Prediction My Version.ipynb  
+└── README.md # This file  
+To run the notebooks  
 
 1. Download the dataset from Kaggle.
 2. Place the CSV file(s) inside the `data/` folder.
@@ -51,23 +51,26 @@ You will need to provide your own dataset in a data/ folder if you want to run t
 
 ## Machine Learning Models Used
 
-This project includes the following 5 machine learning models for predicting customer churn:
-1. XG Boost Model.
-2. Decision Tree Model.
-3. Random Forest Classifier Model.
-4. Logistic Regression Model
-5. Neural Network Model. 
+This project includes the following 5 machine learning models for predicting   customer churn:  
+1. XG Boost Model.  
+2. Decision Tree Model.  
+3. Random Forest Classifier Model.  
+4. Logistic Regression Model.  
+5. Neural Network Model.   
 
 
 ## Project Highlights
 
-Exploratory Data Analysis (EDA): Understand customer behavior and trends.
-Data Preprocessing: Handle missing values, encode categorical features, scale numerical data.
-Model Training & Evaluation: Train multiple models and compare their performance using metrics like accuracy, precision, recall, F1-score, and confusion matrices.
-Model Persistence: Save trained models for future use.
-Support Vector Machine (SVM) – Effective for high-dimensional feature spaces.
-Gradient Boosting Classifier – Boosting technique for high-performance predictions.
-Decision Tree Classifier – Simple and interpretable tree-based model.
+Exploratory Data Analysis (EDA): Understand customer behavior and trends.  
+Data Preprocessing: Handle missing values, encode categorical features, scale numerical data.  
+
+Model Training & Evaluation: Train multiple models and compare their performance using metrics like accuracy, precision, recall, F1-score, and confusion matrices.  
+
+Model Persistence: Save trained models for future use.  
+Support Vector Machine (SVM) – Effective for high-dimensional feature spaces.  
+Gradient Boosting Classifier – Boosting technique for high-performance predictions.  
+
+Decision Tree Classifier – Simple and interpretable tree-based model.  
 
 
 Created by Maneesha De Silva.
