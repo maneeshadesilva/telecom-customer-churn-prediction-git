@@ -32,8 +32,8 @@ To run the notebooks
 
 1. Clone the repository:
 
-git clone https://github.com/maneeshadesilva/telecom-customer-churn-prediction-git.git
-cd telecom-customer-churn-prediction-git 
+   git clone https://github.com/maneeshadesilva/telecom-customer-churn-prediction-    git.git  
+   cd telecom-customer-churn-prediction-git   
 
 
 2. Install dependencies:
@@ -64,13 +64,7 @@ This project includes the following 5 machine learning models for predicting   c
 Exploratory Data Analysis (EDA): Understand customer behavior and trends.  
 Data Preprocessing: Handle missing values, encode categorical features, scale numerical data.  
 
-Model Training & Evaluation: Train multiple models and compare their performance using metrics like accuracy, precision, recall, F1-score, and confusion matrices.  
-
-Model Persistence: Save trained models for future use.  
-Support Vector Machine (SVM) – Effective for high-dimensional feature spaces.  
-Gradient Boosting Classifier – Boosting technique for high-performance predictions.  
-
-Decision Tree Classifier – Simple and interpretable tree-based model.  
-
+Model Training & Evaluation: Train multiple models and compare their performance using metrics like accuracy, precision, recall, F1-score, and confusion matrices.    
+  
 
 Created by Maneesha De Silva.
