@@ -1,7 +1,0 @@
-# ignore everything inside data and models
-data/*
-models/*
-
-# but do not ignore .gitkeep files
-!data/**/.gitkeep
-!models/.gitkeep
